@@ -8,7 +8,7 @@ Group:		Applications
 Source0:	http://www.lightandmatter.com/%{name}/when.tar.gz
 # Source0-md5:	424d114aea580923568c34f54521089b
 URL:		http://www.lightandmatter.com/when/when.html
-BuildRequires:	perl
+BuildRequires:	perl-base
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
