@@ -1,12 +1,12 @@
 Summary:	When is an extremely simple personal calendar program
 Summary(hu.UTF-8):	When egy végtelenül egyszerű személyi naptár program
 Name:		when
-Version:	1.1.21
+Version:	1.1.22
 Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://www.lightandmatter.com/%{name}/when.tar.gz
-# Source0-md5:	424d114aea580923568c34f54521089b
+# Source0-md5:	33ee5e54992f29de16b5fa90ba30dec5
 URL:		http://www.lightandmatter.com/when/when.html
 BuildRequires:	perl-base
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
